@@ -1,6 +1,10 @@
 title: PAIN
 description: Changes the death sound to a SPICY MEAT-A-BALL
 assets:
+- name: se/se000.win32.scd
+  method: copy
+  source:
+  - name: se/se000.win32.scd
 - name: voice/us/battle/al0_sora.win32.scd
   method: copy
   source:
